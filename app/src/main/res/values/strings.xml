@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wallet</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_add">+</string>
+    <string name="txt_sub">-</string>
+    <string name="yes">OK</string>
+    <string name="balance">balance</string>
+    <string name="label_transMean">avg transaction</string>
+    <string name="transactionHistory">transactionHistory</string>
+    <string name="action_payDate">Pick reference date</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="payDate">payDate</string>
+    <string name="txt_zero">0</string>
+    <string name="txt_daysLeftLabel">days left</string>
+    <string name="txt_budgetPerWeekLabel">budget/week</string>
+
+</resources>
